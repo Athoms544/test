@@ -1,0 +1,16 @@
+{
+    "COMMANDS" : {
+        "AUTRES" : {
+            "PING" : {
+                "name": "ping",
+                "aliases": ["ping"],
+                "category": "autres",
+                "description": "Renvoie pong !",
+                "cooldown": 10,
+                "usage": "",
+                "staff": true,
+                "args": false
+            }
+        }
+    }
+}
